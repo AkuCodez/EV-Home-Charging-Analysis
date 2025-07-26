@@ -2,6 +2,9 @@
 
 This project explores and forecasts electric vehicle (EV) charging behavior at home using a real-world dataset. It analyzes charging session patterns, energy usage, and costs, and builds a predictive model using Facebook Prophet to forecast monthly energy consumption and cost.
 
+📌 **Live App**: [EV Charging Dashboard on Streamlit 🚀](https://ev-home-charging-analysis.streamlit.app/)
+
+
 ---
 
 ## 📌 Objectives
@@ -83,7 +86,6 @@ This project is tailored to demonstrate:
 ---
 
 ## 🚀 How to Run
-
 1. Open the notebook in [Google Colab](https://colab.research.google.com/).
 2. Upload the dataset (`ev_charging_data.csv` or similar).
 3. Run each cell step-by-step.
